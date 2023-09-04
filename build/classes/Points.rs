@@ -1,0 +1,1 @@
+hga3.Points
