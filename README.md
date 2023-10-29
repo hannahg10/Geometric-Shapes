@@ -1,5 +1,5 @@
 # 2D Geometric Shapes
-Choose a shape and enter your preferences to receive the area and perimeter of your drawn shape.
+An interactive application that allows users to create and manipulate various geometric shapes while calculating its area and perimeter.
 
 ## Description
 
